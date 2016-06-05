@@ -26,7 +26,7 @@ This package is designed to work with certain types of projects. Your project sh
 * An accounts system - e.g. `meteor add accounts-base accounts-password`
 * Roles - `meteor add alanning:roles`
 * Bootstrap 3 - e.g. `meteor add twbs:bootstrap`
-* Fontawesome - e.g. `meteor add fortawesome:fontawesome`
+* Fontawesome - e.g. `meteor add fontawesome:fontawesome`
 
 #### 1. Install ####
 Download to your packages directory and run `meteor add yogiben:admin` then go to `/admin` for the setup wizzard.
